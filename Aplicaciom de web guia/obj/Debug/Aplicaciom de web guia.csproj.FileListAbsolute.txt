@@ -1,0 +1,78 @@
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\Aplicaciom de web guia.dll.config
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\Aplicaciom de web guia.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\Aplicaciom de web guia.pdb
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\csc.exe
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\csc.exe.config
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\csc.rsp
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\csi.exe
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\csi.exe.config
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\csi.rsp
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.AppContext.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Collections.Immutable.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Console.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Globalization.Calendars.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.IO.Compression.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.IO.FileSystem.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Net.Http.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Net.Sockets.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Reflection.Metadata.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.ValueTuple.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Xml.XPath.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\vbc.exe
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\vbc.exe.config
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\vbc.rsp
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\VBCSCompiler.exe
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\roslyn\VBCSCompiler.exe.config
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\Microsoft.Web.Infrastructure.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Helpers.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Mvc.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Razor.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Webpages.Deployment.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Webpages.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Webpages.Razor.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Razor.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Webpages.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Webpages.Deployment.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Webpages.Razor.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Helpers.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\System.Web.Mvc.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\es\System.Web.Razor.resources.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\es\System.Web.Webpages.resources.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\es\System.Web.Helpers.resources.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\bin\es\System.Web.Mvc.resources.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\obj\Debug\Aplicaciom de web guia.csproj.AssemblyReference.cache
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\obj\Debug\Aplicaciom de web guia.csproj.CoreCompileInputs.cache
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\obj\Debug\Aplicaciom de web guia.csproj.CopyComplete
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\obj\Debug\Aplicaciom de web guia.dll
+D:\DSP\guia 8\Aplicaciom de web guia\Aplicaciom de web guia\obj\Debug\Aplicaciom de web guia.pdb
