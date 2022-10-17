@@ -1,0 +1,234 @@
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.AssemblyReference.cache
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.dll.config
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.pdb
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.exe
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.exe.config
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.rsp
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.exe
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.exe.config
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.rsp
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.AppContext.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Console.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.exe
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.exe.config
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.rsp
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Helpers.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Mvc.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Razor.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Razor.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Helpers.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Mvc.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Razor.resources.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CopyComplete
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.dll
+C:\Users\LAB2-27\source\repos\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.pdb
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.dll.config
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.pdb
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.exe
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.exe.config
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.rsp
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.exe
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.exe.config
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.rsp
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.AppContext.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Collections.Immutable.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Console.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Globalization.Calendars.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.Compression.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Net.Http.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Net.Sockets.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.ValueTuple.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.exe
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.exe.config
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.rsp
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe.config
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.Web.Infrastructure.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Helpers.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Mvc.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Razor.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Razor.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Razor.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Razor.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Helpers.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Mvc.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Razor.resources.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.resources.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Helpers.resources.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Mvc.resources.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.AssemblyReference.cache
+D:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CoreCompileInputs.cache
+D:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CopyComplete
+D:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.dll
+D:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.pdb
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.dll.config
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\Guia 8 - DSP.pdb
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.exe
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.exe.config
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csc.rsp
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.exe
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.exe.config
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\csi.rsp
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.AppContext.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Collections.Immutable.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Console.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Globalization.Calendars.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.Compression.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Net.Http.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Net.Sockets.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.ValueTuple.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.exe
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.exe.config
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\vbc.rsp
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe.config
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.Web.Infrastructure.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Helpers.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Mvc.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Razor.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Razor.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Razor.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Webpages.Razor.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Helpers.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\System.Web.Mvc.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Razor.resources.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.resources.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Helpers.resources.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\bin\es\System.Web.Mvc.resources.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.AssemblyReference.cache
+E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CoreCompileInputs.cache
+E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CopyComplete
+E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.dll
+E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.pdb
