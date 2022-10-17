@@ -232,3 +232,81 @@ E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CoreCompileInputs.cac
 E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CopyComplete
 E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.dll
 E:\Guia 8 - DSP\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.pdb
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\Guia 8 - DSP.dll.config
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\Guia 8 - DSP.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\Guia 8 - DSP.pdb
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\csc.exe
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\csc.exe.config
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\csc.rsp
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\csi.exe
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\csi.exe.config
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\csi.rsp
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.AppContext.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Console.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\vbc.exe
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\vbc.exe.config
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\vbc.rsp
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Helpers.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Mvc.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Razor.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Webpages.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Razor.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Webpages.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Helpers.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\System.Web.Mvc.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\es\System.Web.Razor.resources.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\es\System.Web.Webpages.resources.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.AssemblyReference.cache
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.csproj.CopyComplete
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.dll
+C:\Users\LAB2-21\Desktop\Proyecto-de-catedra\Guia 8 - DSP\obj\Debug\Guia 8 - DSP.pdb
