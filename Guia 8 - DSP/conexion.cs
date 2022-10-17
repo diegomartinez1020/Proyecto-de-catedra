@@ -321,7 +321,7 @@ SqlCommand comando = new SqlCommand();
             }
             catch (SqlException error)
             {
-                error.ToString();
+              
                 return 0;
             }
         }
