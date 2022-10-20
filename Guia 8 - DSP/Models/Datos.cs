@@ -26,4 +26,24 @@ namespace Guia_8___DSP.Models
         public string nIdCategoria { get; set; }
         public string nIdEmpresa { get; set; }
     }
+
+    public class Candidato
+    {
+        public string nombreCandidato { get; set; }
+        public string telefonoCandidato { get; set; }
+        public string correoCandidato { get; set; }
+        public string ubicacionCandidato { get; set; }
+        public string fechaNacimiento { get; set; }
+        public string conocimiento { get; set; }
+    }
+
+    public class Empleador
+    {
+        public string nombresEmpleador { get; set; }
+        public string telefonoEmpleador { get; set; }
+        public string correoEmpleador { get; set; }
+        public string ubicacion { get; set; }
+        public string fechaNacimiento { get; set; }
+        public string empresa { get; set; }
+    }
 }
